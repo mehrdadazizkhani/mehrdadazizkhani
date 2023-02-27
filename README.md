@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #  About Me:
-I'm an architect, maker, and computational designer with a master's degree in architecture. I founded MSA (Mathematical Solutions for Architecture) in 2014 to meld my passion for creative design with my architecture and fabrication know-how. Now I plan to move my work path toward web development to present new products in the future with an interdisciplinary approach to architecture and programming.<br><br>🌱 I’m currently learning TypeScript and Bootstrap<br>👨‍💻 If you are interested in computational design, take a look here https://issuu.com/realoe.ro/docs/portfolio
+I am a self-driven passionate junior front-end developer with a desire to learn and grow in a collaborative team environment seeking an entry-level position with Company to use my skills in coding. Skilled in JavaScript, Tailwindcss, Reactjs and TypeScript. I have a keen eye for details, and also interested in troubleshooting complex problems, and assisting in the timely completion of projects.
 
 
 ##  Socials:
