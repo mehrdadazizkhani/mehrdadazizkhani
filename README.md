@@ -6,7 +6,7 @@ I am a self-driven passionate junior front-end developer who wants to learn and 
 
 
 
-### **Tech stack**  
+#### Tech stack  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -29,7 +29,7 @@ I am a self-driven passionate junior front-end developer who wants to learn and 
 
 
 
-### Connect with me  
+#### Connect with me  
 <div align="center">
 <a href="https://github.com/mehrdadazizkhani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -44,7 +44,13 @@ I am a self-driven passionate junior front-end developer who wants to learn and 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
+
+
+
+
+
+
+
+  
 
